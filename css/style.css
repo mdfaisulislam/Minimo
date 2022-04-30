@@ -148,18 +148,16 @@ label {
 }
 .button{
 	width: 100%;
-	background-color: #ffffff;
-	border-color: #626262;
-}
-.button a{
 	font-family: 'Playfair Display', serif;
 	font-size: 26px;
     color: #626262;
+    background-color: #ffffff;
+	border-color: #626262;
     text-decoration: none;
     display: inline-block;
     padding: 38px;
 }
-.button a:hover{
+.button:hover{
 	background-color: #706d7022;
 }
 /*load end*/
