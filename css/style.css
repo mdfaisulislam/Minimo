@@ -52,6 +52,9 @@ header{
 }
 /*header end*/
 /*banner start*/
+h1{
+	display: none;
+}
 .banner{
 	width: 100%;
 }
@@ -150,12 +153,12 @@ label {
 	width: 100%;
 	font-family: 'Playfair Display', serif;
 	font-size: 26px;
-        color: #626262;
-        background-color: #ffffff;
+    color: #626262;
+    background-color: #ffffff;
 	border-color: #626262;
-        text-decoration: none;
-        display: inline-block;
-        padding: 38px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 38px;
 }
 .button:hover{
 	background-color: #706d7022;
@@ -186,8 +189,8 @@ footer{
 }
 .f-text2 p{}
 .f-text2 p a{
-        text-decoration: none;
-        color: #626262;
+    text-decoration: none;
+    color: #626262;
 }
 
 .f-img{
