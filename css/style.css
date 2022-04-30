@@ -38,10 +38,11 @@ header{
 	float: left;
 }
 .menu ul li a{
+	margin: 0 49px;
 	text-decoration: none;
 	font-size: 14pt;
 	transition-duration: 0.4s;
-	margin: 0 49px;
+	color: #626262;
 }
 .menu ul li:last-child a{
 	margin-right: 0;
