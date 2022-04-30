@@ -1,0 +1,150 @@
+psd to html
+
+section define-?
+layout define
+        full complet
+
+asset gather
+       logo
+       img
+       icon
+       text
+
+
+
+fonts
+
+
+
+body
+    font-family
+    font-weight
+    font-size
+    color        
+
+
+css code 
+    margin
+    font-family
+    font-weight
+    font-size
+    color
+    text-transform
+    text-align
+    line-height
+    letter-s
+    word-s
+
+
+r-blocks
+
+ui-ux
+     01. color com..
+                  category
+                  color website 2/3
+     02. typography
+               fonts- 2/3
+     03. consistancy
+                  
+     04. space maintain          
+     
+font style 
+          inconsoloata regular
+          playfair display regular
+          ubuntu light
+
+
+cdn font links-
+         <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+
+
+font-family: 'Playfair Display', serif;
+
+font-family: 'Ubuntu', sans-serif;
+
+download font-
+         otf/otf
+         woff
+         woff2
+
+
+
+font website-
+          01. font.google.com for cdn
+
+
+          02. fontsquirrel.com for download
+
+seo 
+   h1-h6
+   p
+   img alt name
+   strong
+   em
+   meta data
+color #020202
+
+01   PHOTODIARY 
+The perfect weekend getaway 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate vent esse cilium dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architect° beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+LEAVE A COMMENT 
+
+
+02   LIFESTYLE    
+More than just a music festival 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+
+
+03  LIFESTYLE
+Life tastes better with coffee 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+
+04  PHOTODIARY 
+American dream 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. quis nostrud exercitation ullamco laboris 
+
+
+05  PHOTODIARY 
+A day exploring the Alps 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+
+
+06    LIFESTYLE
+Top 10 song for running 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. quis nostrud exercitation ullamco laboris 
+
+p{
+    color #626262
+}
+p span{
+    color #020202
+}
+
+
+
+
+12121
+<!-- vlog1 start --> 
+<section>
+    <div class="vlog">
+        <!-- s1 start -->
+        <div class="v-img">
+            <img src="images/minimo3" alt="Minimo">
+        </div>
+        <div class="v-text">
+            <p><span></span></p>
+            <h1></h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+            <p><span></span></p>
+        </div>
+        <!-- s1 end -->
+    </div>
+</section>
+<!-- vlog1 end -->
+ 
+footer
+     color: #f0f0f0;
